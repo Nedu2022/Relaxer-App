@@ -1,13 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300&display=swap");
 
-*{
+* {
   box-sizing: border-box;
 }
 
 body {
-  background: #224941 url(./img/pexels-cátia-matos-1072179.jpg) no-repeat center center cover;
+  background: #224941 url(./img/pexels-cátia-matos-1072179.jpg) no-repeat center
+    center cover;
   color: #fff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   min-height: 100vh;
   overflow: hidden;
   display: flex;
